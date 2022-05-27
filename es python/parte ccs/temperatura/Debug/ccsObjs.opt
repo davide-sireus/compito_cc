@@ -1,0 +1,1 @@
+"./circular_buffer.obj" "./main.obj" "./serial.obj" "./timer.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
